@@ -882,7 +882,27 @@ width:90%;
   gap: 2px;
     margin-right: 100px;
 }
-
+.button-divv div{
+    width: 95%;
+    }
+    footer h3{
+        font-size: 10px;
+    }
+    .footer-img::before { 
+        right:10px;
+    }
+    .footer-p{
+       margin-left: 100px;
+    }
+    .footerre img{
+    margin-right: 10px;
+    }
+    .footer-logo img{
+        margin-right: -25px;
+    }
+    .footerr{
+        margin-left: 100px;
+    }
 
 
 }
